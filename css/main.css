@@ -1,0 +1,61 @@
+.images {
+    margin: 5%;
+    height: 50%
+}
+
+body{
+    background-color: rgb(192, 197, 199);
+}
+
+
+div.contains {
+    text-align:center;
+    background-color: rgb(178, 228, 221);
+}
+
+ul.theUL {
+    display: inline-block;
+    text-align: left;
+}
+
+ol.theOL {
+    display: inline-block;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+h2 {
+    background-color: white;
+    text-align: center;
+}
+p1 {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+p3 {
+    background-color: black;
+    color: white;
+}
+
+
+main {
+    text-align: center;
+}
+
+footer {
+    margin: 5%;
+    text-align: center;
+    background-color: rgb(213,215,217);
+    color: black;
+}
+
+header {
+background-color: rgb(178, 228, 221);
+}
